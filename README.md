@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+	DevCampViewTool33::Renderer.copyright 'Andrew Oliveira', 'All rights reserved'
+```
 
 ## Development
 
